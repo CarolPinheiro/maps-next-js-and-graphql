@@ -10,7 +10,9 @@
     "prepare": "husky install"
   },
   "lint-staged": {
-    "src/**/*": ["npm run lint --fix"]
+    "src/**/*": [
+      "npm run lint --fix"
+    ]
   },
   "dependencies": {
     "lint-staged": "^10.5.4",
