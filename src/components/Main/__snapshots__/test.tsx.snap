@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main/> should render the heading 1`] = `
+<main
+  class="styles__Wrapper-dzx1ao-0 ikVDYM"
+>
+  <img
+    class="styles__Logo-dzx1ao-1"
+    src="/img/gato-preto.svg"
+  />
+  <h1
+    class="styles__Title-dzx1ao-2"
+  >
+    React Avançado
+  </h1>
+  <h2
+    class="styles__Description-dzx1ao-3"
+  >
+    Usando mais algumas tecnologias
+  </h2>
+</main>
+`;
